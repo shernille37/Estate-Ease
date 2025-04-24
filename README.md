@@ -14,6 +14,14 @@
 - Property bookmarking / saved properties
 - Property sharing to social media
 
+## Technologies Used
+  <p>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Spring_Boot-404d59.svg?logo=springboot&logoColor=white"></a>
+  </p>
+
 ## Usage
 
 - Create MongoDB Atlas account and a cluster. [MongoDB](https://www.mongodb.com/)
