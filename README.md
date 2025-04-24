@@ -1,6 +1,8 @@
 # Estate Ease Real Estate Platform
 > A web application to help you find your next rental property.
 
+<img src="./frontend/public/screen.png">
+
 ## Features
 
 - User authentication with Google & Next Auth
