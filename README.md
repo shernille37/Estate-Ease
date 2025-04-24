@@ -27,8 +27,8 @@
 
 ## Usage
 
-- Create MongoDB Atlas account and a cluster. [MongoDB](https://www.mongodb.com/)
-- Create Cloudinary account. [Cloudinary](https://cloudinary.com/)
+- Create [MongoDB](https://www.mongodb.com/) Atlas account and a cluster.
+- Create [Cloudinary](https://cloudinary.com/) account. 
 
 Add a `.env` file in the `backend/propertyapp/src/main/resources` and add the following
 
