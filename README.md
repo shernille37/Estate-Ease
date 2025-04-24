@@ -1,9 +1,6 @@
 # Estate Ease Real Estate Platform
 > A web application to help you find your next rental property.
 
-The `_theme_files` folder contains the pure HTML files with Tailwind classes.
-
-
 ## Features
 
 - User authentication with Google & Next Auth
