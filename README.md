@@ -5,7 +5,7 @@
 
 ## Features
 
-- User authentication with Google & Next Auth
+- User authentication with JWT Token
 - User authorization
 - User profile with user listings
 - Property Listing CRUD
